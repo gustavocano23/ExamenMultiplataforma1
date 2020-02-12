@@ -1,0 +1,26 @@
+body, html {
+    background-color: black;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+
+#form-informacion .contendor label {
+    color: white;
+    font-size: 16px;
+    display: flex;
+
+}
+
+#form-informacion .contendor input {
+    padding: 10px 10px 10px 10px;
+    font-size: 16px;
+    display: flex;
+}
+
+#form-informacion .contendor input[type="submit"] {
+    margin-top: 10px;
+}
